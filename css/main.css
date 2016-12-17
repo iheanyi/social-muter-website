@@ -3,7 +3,7 @@
 	font-family: 'karla', sans-serif;
 }.footer,
 .header {
-	background: linear-gradient(to bottom right, #ff3d3d, #ffc83c);
+	background: #3d4773;
 	color: white;
 }@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
 *,
@@ -76,6 +76,14 @@ p.paragraph {
 .link {
   text-decoration: underline;
   font-weight: 600;
+}
+
+.link:visited {
+  color: white;
+}
+
+.link:hover {
+  opacity: 75%;
 }
 
 .nav-link:not(:first-of-type) {
