@@ -186,6 +186,7 @@ p.paragraph {
 	letter-spacing: .3px;
 	border: 1px solid white;
 	text-decoration: none;
+  margin-bottom: 8px;
 }.socialproof {
 	padding: 90px 0;
 }
