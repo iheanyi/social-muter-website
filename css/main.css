@@ -1,6 +1,7 @@
 /*neutral*/
 * {
 	font-family: 'karla', sans-serif;
+  box-sizing: border-box;
 }.footer,
 .header {
 	background: #3d4773;
