@@ -185,7 +185,8 @@ p.paragraph {
 	}
 }.ctas-button {
 	display: inline-block;
-	height: 40px;
+	min-height: 40px;
+  height: auto;
 	line-height: 38px;
 	padding: 0 30px;
 	background: #fff;
@@ -224,7 +225,8 @@ p.paragraph {
 }.ctas-button,
 .ctas-button-2 {
 	display: inline-block;
-	height: 40px;
+	min-height: 40px;
+  height: auto;
 	line-height: 38px;
 	padding: 0 30px;
 	background: #fff;
@@ -260,7 +262,8 @@ p.paragraph {
 }.ctas-button,
 .ctas-button-2 {
 	display: inline-block;
-	height: 40px;
+	min-height: 40px;
+  height: auto;
 	line-height: 38px;
 	padding: 0 30px;
 	background: #fff;
